@@ -1,0 +1,73 @@
+@media (max-width: 1199px){
+
+}
+@media (max-width: 991px){
+	a.navbar-brand img {
+    max-width: 130px;
+}
+
+
+.navbar {
+    margin-top: 0px;
+}
+.carousel-item p {
+    font-size: 15px;
+    color: #333;
+    opacity: 0.7;
+}
+.carousel-item h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+.btn-dark {
+    background: #000;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+ol.carousel-indicators {
+    margin: -16px;
+}
+
+.product a h1 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.product h2 {
+    color: #333;
+    font-weight: 500;
+    font-size: 25px;
+}
+}
+
+
+
+
+@media (max-width: 767px){
+
+.carousel-item {
+    padding: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.carousel-item img {
+   max-width: 350px;
+}
+
+ol.carousel-indicators {
+    margin: 0px;
+}
+
+.product{
+	margin-bottom: 30px;
+}
+
+}
+@media (max-width: 575px){
+	
+}
